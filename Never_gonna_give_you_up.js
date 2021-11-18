@@ -1,1 +1,1 @@
-console.log("Rickrolled");
+console.log("console.log('Rickrolled')");
